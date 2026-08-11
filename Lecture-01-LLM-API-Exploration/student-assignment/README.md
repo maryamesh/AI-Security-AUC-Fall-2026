@@ -85,7 +85,7 @@ For the invalid request, explain:
 
 ## Part 4 — Analysis report
 
-Complete `report-template.md`. Use approximately 800–1,200 words, excluding
+Complete `report-template.md`, and
 JSON evidence.
 
 Your analysis must:
@@ -116,16 +116,4 @@ student-id-lecture-01/
 
 Do not submit `.env`, API keys, virtual environments, or model files.
 
-## Marking scheme
 
-- Complete and accurate API map: 15%
-- Controlled experiments and evidence: 25%
-- Request/response annotation: 20%
-- Explanation of LLM fundamentals: 20%
-- Caller-control and application-boundary analysis: 15%
-- Clarity, reproducibility, and safe secret handling: 5%
-
-## Academic integrity
-
-Requests, evidence, and explanations must be your own. Cite documentation and
-external sources used.
