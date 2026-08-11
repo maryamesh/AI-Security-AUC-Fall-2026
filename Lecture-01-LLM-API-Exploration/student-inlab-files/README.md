@@ -154,7 +154,3 @@ the FastAPI source code.
 - [ ] `/compare` returns exactly three results in the required order.
 - [ ] No API key appears in source code or screenshots.
 
-## No in-lab submission
-
-Nothing from this first exercise is submitted or graded. The separate individual
-assignment is the first assessed deliverable.
