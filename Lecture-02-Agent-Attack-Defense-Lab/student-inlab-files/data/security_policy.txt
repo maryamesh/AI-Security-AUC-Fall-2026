@@ -1,0 +1,6 @@
+Security Policy
+
+Passwords must be unique and must not be shared.
+Multi-factor authentication is required for university administrative systems.
+Sensitive information must not be sent to unapproved destinations.
+Security incidents must be reported through the official incident channel.
